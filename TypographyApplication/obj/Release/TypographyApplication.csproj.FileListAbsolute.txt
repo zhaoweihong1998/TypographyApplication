@@ -1,0 +1,6 @@
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\TypographyApplication.csproj.CoreCompileInputs.cache
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\TypographyApplication.pdb
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\TypographyApplication.pdb
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\TypographyApplication.dll.config
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\TypographyApplication.dll
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\TypographyApplication.dll

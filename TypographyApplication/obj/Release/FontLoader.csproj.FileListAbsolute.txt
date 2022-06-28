@@ -1,0 +1,6 @@
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\FontLoader.csproj.CoreCompileInputs.cache
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\FontLoader.dll.config
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\FontLoader.dll
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\bin\Release\FontLoader.pdb
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\FontLoader.dll
+C:\Users\14911\Documents\dev\learnC#\TypographyApplication\TypographyApplication\TypographyApplication\obj\Release\FontLoader.pdb
